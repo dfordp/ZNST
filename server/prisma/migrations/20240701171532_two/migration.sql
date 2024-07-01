@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Nodes" ALTER COLUMN "Value" SET DEFAULT 1;
